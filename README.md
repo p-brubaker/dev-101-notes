@@ -1,6 +1,12 @@
 # dev-101-notes
 
-Dev 101 Demo for Github
+Notes for Dev-101 class, using markdown, covering days 1-4. 
 
-This is a demo file for Dev 101. We are going to have so much fun this week!
+## [Day 1](https://github.com/p-brubaker/dev-101-notes/blob/main/day-1/notes.md)
+
+## [Day 2](https://github.com/p-brubaker/dev-101-notes/blob/main/day-2/notes.md)
+
+## [Day 3](https://github.com/p-brubaker/dev-101-notes/blob/main/day-3/notes.md)
+
+## [Day 4](https://github.com/p-brubaker/dev-101-notes/blob/main/day-4/notes.md)
 
